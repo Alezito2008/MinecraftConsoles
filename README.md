@@ -80,6 +80,7 @@ Minecraft.Client.exe -name Steve -fullscreen
 - **Inventory**: `E`
 - **Chat**: `T`
 - **Drop Item**: `Q`
+- **Drop Stack**: `Ctrl` + `Q`
 - **Crafting**: `C` Use `Q` and `E` to move through tabs (cycles Left/Right)
 - **Toggle View (FPS/TPS)**: `F5`
 - **Fullscreen**: `F11`
